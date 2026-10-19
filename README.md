@@ -1,16 +1,13 @@
-## Hi there 👋
+# Кирилл Фадеев
 
-<!--
-**KORTEZZ12/KORTEZZ12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Проекты
 
-Here are some ideas to get you started:
+**[Диспетчер экскурсий](https://github.com/KORTEZZ12/excursion-dispatch)** — сервис координации гидов для экскурсионной службы. Интервью с 15 сотрудниками, BPMN под Camunda 8, бэклог на Gherkin, интеграции с amoCRM и Telegram, модель данных PostgreSQL с проверками.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Переводы по номеру телефона](https://github.com/KORTEZZ12/phone-transfers)** — системный анализ банковского перевода с упором на сбои: идемпотентность, Kafka с outbox, леджер на двойной записи, SOAP-сервис ЦБ.
+
+**[Родительский контроль](https://github.com/KORTEZZ12/familyguard)** — летний командный проект SWP в Иннополисе, 2025 год, 9 недель. Был тимлидом команды из шести человек: два backend-разработчика, два дизайнера и QA. Вместе с внешним заказчиком реализовали его, создав MVP — мобильное приложение для ребёнка и веб-панель для родителя. Я вёл бэклог, планировал итерации, проводил демо заказчику и принимал работу вместе с QA.
+
+## Контакты
+
+Telegram [@ki_fadeev](https://t.me/ki_fadeev) · ki.fadeev@innopolis.university
