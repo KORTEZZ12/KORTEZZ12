@@ -1,4 +1,16 @@
-# Кирилл Фадеев
+<h1 align="center">Кирилл Фадеев</h1>
+<p align="center">
+  <a href="mailto:fadeevc@ya.ru"><img src="https://img.shields.io/badge/Email-fadeevc%40ya.ru-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://t.me/caslron"><img src="https://img.shields.io/badge/Telegram-@caslron-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+</a>
+</p>
+
+## О себе
+Системный аналитик с инженерной базой (CS & Software Engineering, Университет Иннополис).
+
+**Стек и артефакты:** OpenAPI (Swagger), REST / SOAP, Kafka (Outbox pattern, idempotency), PostgreSQL (ERD, DDL, транзакции), BPMN 2.0 (Camunda), UML (Sequence, State, Activity).
+
+
 
 ## Проекты
 
